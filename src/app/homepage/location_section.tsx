@@ -47,7 +47,7 @@ export default function LocationSection() {
 
 			<div className="flex flex-col gap-5 md:grid md:grid-cols-2 md:gap-10 md:p-8">
 				{branches.map((branch) => (
-					<div key={branch.id} className="border bg-white p-6 rounded-2xl shadow">
+					<div key={branch.id} className="border bg-white p-6 rounded-2xl shadow transition-all hover:scale-[1.02] hover:border-gold hover:duration-700">
 						<h3 className="font-semibold mb-3">{branch.name}</h3>
 
 						<div className="flex flex-col items-center justify-center gap-4 md:grid md:grid-cols-2 md:gap-4">
