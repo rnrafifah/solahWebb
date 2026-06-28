@@ -1,0 +1,16 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M25 41.6666V45.8333" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25 4.16663V8.33329" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.4167 41.6666V45.8333" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.4167 4.16663V8.33329" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.16669 25H8.33335" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.16669 35.4166H8.33335" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.16669 14.5834H8.33335" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.6667 25H45.8334" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.6667 35.4166H45.8334" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.6667 14.5834H45.8334" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5833 41.6666V45.8333" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5833 4.16663V8.33329" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.5 8.33337H12.5C10.1988 8.33337 8.33331 10.1989 8.33331 12.5V37.5C8.33331 39.8012 10.1988 41.6667 12.5 41.6667H37.5C39.8012 41.6667 41.6666 39.8012 41.6666 37.5V12.5C41.6666 10.1989 39.8012 8.33337 37.5 8.33337Z" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.25 16.6666H18.75C17.5994 16.6666 16.6667 17.5994 16.6667 18.75V31.25C16.6667 32.4006 17.5994 33.3333 18.75 33.3333H31.25C32.4006 33.3333 33.3334 32.4006 33.3334 31.25V18.75C33.3334 17.5994 32.4006 16.6666 31.25 16.6666Z" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
