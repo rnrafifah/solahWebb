@@ -1,5 +1,7 @@
 import { Inter, Orbitron } from "next/font/google";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const inter = Inter({
 	subsets: ["latin"],
@@ -15,6 +17,8 @@ const orbitron = Orbitron({
 export default function RootLayout({ children }: { children: React.ReactNode }) {
 	return (
 		<html className={`overflow-y-auto no-scrollbar ${inter.variable} ${orbitron.variable}`}>
+            <Analytics />
+            <SpeedInsights />
 			<body>{children}</body>
 		</html>
 	);
