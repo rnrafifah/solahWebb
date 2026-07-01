@@ -1,3 +1,6 @@
+import Image from "next/image";
+import CompanyLogo from "@/assets/LOGO COMPANY.svg";
+
 const IntroText = () => (
 	<>
 		<div className="flex flex-col text-center self-center md:text-6xl text-2xl">
@@ -35,6 +38,7 @@ const StatisticsText = () => (
 export default function IntroSection() {
 	return (
 		<div className="p-8 min-h-screen flex flex-col gap-10 justify-center w-full bg-background-one">
+            <Image src={CompanyLogo} alt="logo" className="absolute justify-self-center self-center opacity-10 w-[50%]"/>
 			<IntroText />
 			<StatisticsText />
 		</div>

@@ -94,8 +94,8 @@ export default function NavigationBar() {
 					<div className="flex flex-1">
 						<div onClick={() => handleNavigation("home")} className="cursor-pointer flex items-center gap-2.5 font-orbitron font-semibold">
 							<Image src={CompanyLogo} alt="logo" width={40} height={40} />
-							<p className="text-white">SOLAHUDDIN</p>
-							<p className="text-gold">TECHNOLOGY</p>
+							<p className="text-gold">SOLAHUDDIN</p>
+							<p className="text-white">TECHNOLOGY</p>
 						</div>
 					</div>
 
